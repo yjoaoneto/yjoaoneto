@@ -10,12 +10,25 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjoaoneto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="jn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jn-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="jn-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
+<h2 align="center">  👨🏽‍💻  Ferramentas e linguagens 👨🏽‍💻 </h2>
+ <br>
+ 
+  <h2 > 💻 Linguagens 💻  </h2> 
+  
+  <img align="center" alt="Jn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JN-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+ 
+ 
+ <h2> 🛠 Ferramentas 🛠  </h2> 
+   
+
+<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>|<img src="https://img.icons8.com/color/48/FFFFFF/pycharm.png">|<img src="https://img.icons8.com/color/48/000000/git.png">|<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png"/>
+|--|--|--|--|
+
+ <br>
+ <br>
 
 ##
 
