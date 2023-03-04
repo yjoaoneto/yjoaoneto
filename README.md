@@ -24,8 +24,8 @@
  <h2> 🛠 Ferramentas 🛠  </h2> 
    
 
-<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>|<img src="https://img.icons8.com/color/48/FFFFFF/pycharm.png">|<img src="https://img.icons8.com/color/48/000000/git.png">|<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png"/>
-|--|--|--|--|
+<img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>|<img src="https://img.icons8.com/color/48/FFFFFF/pycharm.png">|<img src="https://img.icons8.com/color/48/000000/git.png">|<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png"/>|<img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/>|
+|--|--|--|--|--|
 
  <br>
  <br>
