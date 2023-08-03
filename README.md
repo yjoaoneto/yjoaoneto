@@ -1,6 +1,6 @@
 ### Opa, e aí? Eu me chamo João
 
-- Atualmente estou no terceiro período de Ciência da Computação 
+- Atualmente estou no 4° período de Ciência da Computação 
 - No momento estou focado no front-end, aprendendo mais sobre javascript
 - Nas horas vagas gosto de praticar esportes
 
