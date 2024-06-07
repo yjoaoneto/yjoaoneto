@@ -3,8 +3,7 @@
 ### Sobre mim 🫡
 
 - Atualmente estou no 5° período de Ciência da Computação 
-- Sou desenvolvedor Back-end, gosto de trabalhar com Java
-- Nas horas vagas gosto de praticar esportes
+- Desenvolvedor Back-end
 
 <div align="center">
   <a href="https://github.com/yjoaoneto">
