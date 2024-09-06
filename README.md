@@ -2,7 +2,7 @@
 
 ### Sobre mim 🫡
 
-- Atualmente estou no 5° período de Ciência da Computação 
+- Atualmente estou no 6º período de Ciência da Computação 
 - Desenvolvedor Back-end
 
 <div align="center">
