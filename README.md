@@ -2,8 +2,8 @@
 
 ### Sobre mim 🫡
 
-- Atualmente estou no 6º período de Ciência da Computação 
-- Desenvolvedor Back-end
+- Atualmente estou no 7º período de Ciência da Computação 
+- Web Developer | Process Automation with AI
 
 <div align="center">
   <a href="https://github.com/yjoaoneto">
