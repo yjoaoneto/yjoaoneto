@@ -2,7 +2,7 @@
 
 ### Sobre mim 🫡
 
-- Atualmente estou no 7º período de Ciência da Computação 
+- Atualmente estou no 8º período de Ciência da Computação 
 - Web Developer | Process Automation with AI
 
 <div align="center">
