@@ -3,7 +3,7 @@
 <p align="left"> 
 Estudante de Ciência da Computação na reta final da graduação, com foco em <strong>Desenvolvimento Backend com Python</strong> e na <strong>construção de APIs robustas e escaláveis</strong>. Minha paixão é criar soluções de automação inteligentes que otimizam processos e geram impacto real.
 <br><br>
-Atualmente, minha dedicação está em <strong>Automação com Inteligência Artificial</strong>, utilizando frameworks como <strong>CrewAI</strong>, e em aprofundar meus conhecimentos em usabilidade de ambientes em <strong>Docker</strong> e gerenciamento de servidores <strong>Linux</strong>.
+Atualmente, minha dedicação está em <strong>Automação com Inteligência Artificial</strong>, utilizando frameworks como <strong>CrewAI</strong>, e em aprofundar meus conhecimentos em <strong>Infraestrutura e DevOps</strong>, com orquestração de ambientes em <strong>Docker</strong> e gerenciamento de servidores <strong>Linux</strong>.
 </p>
 
 <div align="center">
