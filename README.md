@@ -1,9 +1,8 @@
 ### Olá, eu sou o João! 👋
 
 <p align="left"> 
-Graduado em Ciência da Computação, com foco em <strong>Desenvolvimento Backend com Python</strong> e na <strong>construção de APIs robustas e escaláveis</strong>. Minha paixão é criar soluções de automação inteligentes que otimizam processos e geram impacto real.
+Graduado em Ciência da Computação, com foco em <strong>Desenvolvimento Backend com Python</strong> e na <strong>construção de APIs robustas e escaláveis</strong>. Minha paixão é criar soluções de automação inteligentes que otimizam processos.
 <br><br>
-Atualmente, minha dedicação está em <strong>Automação com Inteligência Artificial</strong>, utilizando frameworks como <strong>CrewAI</strong>, e em aprofundar meus conhecimentos em <strong>Infraestrutura e DevOps</strong>, com orquestração de ambientes em <strong>Docker</strong> e gerenciamento de servidores <strong>Linux</strong>.
 </p>
 
 <div align="center">
